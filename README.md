@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on new data science projects
 - 📫 How to reach me ...
-- 🙇🏻 My blood is carrying(not WBC, not RBC) but python and sql 
+- 🙇🏻 My blood is carrying(not WBC, not RBC) python and sql 
 
 <!---
 KeshavGupta18/KeshavGupta18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
